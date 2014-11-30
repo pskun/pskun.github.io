@@ -10,12 +10,12 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Binuxの杂货铺
+title : pskun的博客
 tagline: Site Tagline
 author :
-  name : 足兆叉虫
-  email : root@binux.me
-  github : binux
+  name : pskun
+  email : pankunhao@gmail.com
+  github : pskun
   twitter : roybinux
   gplus: roybinux
 safe : true
@@ -28,7 +28,7 @@ safe : true
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://blog.binux.me
+#production_url : http://blog.binux.me
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
