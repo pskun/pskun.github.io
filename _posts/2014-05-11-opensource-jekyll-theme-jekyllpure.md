@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Jekyll主题 &bull;JekyllPure
+title: 首次提交
 description: "Static Markdown (or Textile), Liquid, HTML & CSS go in. Static sites come out ready for deployment. Jekyll template guide,JekyllPure是一个基于jekyll主题,集成了各种方便的插件,以及简洁的页面"
 category: Project
-avatarimg: "http://pskun.github.io/img/head.jpg"
+avatarimg: "/img/head.jpg"
 tags : [ Jekyll ,静态博客,主题]
 duoshuo: false
 ---

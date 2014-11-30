@@ -2,14 +2,14 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">{% capture description %}{% if page.description %}{{ page.description }}{% else %}曾经不知你好{% endif %}{% endcapture %}
-    <meta name="description" content="{{ description }}">{% capture tags %}{% if page.tags %}{{ page.tags }}{% else %}曾经不知你好{% endif %}{% endcapture %}
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">{% capture description %}{% if page.description %}{{ page.description }}{% else %}pskun的杂货铺{% endif %}{% endcapture %}
+    <meta name="description" content="{{ description }}">{% capture tags %}{% if page.tags %}{{ page.tags }}{% else %}pskun的杂货铺{% endif %}{% endcapture %}
     <meta name="keywords" content="{{ page.tags | join: ', ' }}"/>
-    <meta name="author" content="liyouhai.com"> {% capture canonical %}http://liyouhai.com{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
+    <meta name="author" content="pskun.github.io"> {% capture canonical %}http://pskun.github.io{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
     <link rel="canonical" href="{{ canonical }}">
-    <link href="http://liyouhai.com/rss.xml" title="RSS 2.0" type="application/rss+xml" rel="alternate"/>
+    <link href="http://pskun.github.io/rss.xml" title="RSS 2.0" type="application/rss+xml" rel="alternate"/>
     <link href="/img/favicon.ico" rel="icon" type="image/x-icon">
-    <title>{% if page.title %}{{ page.title }} - {% endif %}曾经不知你好</title>
+    <title>{% if page.title %}{{ page.title }} - {% endif %}pskun的杂货铺</title>
     <link rel="stylesheet" href="/css/min/pure-min.css">
     <!--[if lte IE 8]>
     <link rel="stylesheet" href="/css/min/grids-responsive-old-ie-min.css">
@@ -56,11 +56,11 @@
         <div class="header">
             <div class="headerpic">
                 <a href="/">
-                    <img src="/img/lindachung.jpg" alt="Profile Picture" style="width: 140px;" title="返回首页">
+                    <img src="/img/head.jpg" alt="Profile Picture" style="width: 140px;" title="返回首页">
                 </a>
             </div>
-            <h1 class="brand-title">曾经不知你好</h1>
-            <h2 class="brand-tagline">Write Less,Do More!</h2>
+            <h1 class="brand-title">pskun的杂货铺</h1>
+            <h2 class="brand-tagline">Talk is Cheap, show me the code</h2>
 
             <nav class="nav">
                 <ul class="nav-list">
@@ -73,8 +73,6 @@
                     <li class="nav-item">
                         <a class="pure-button" href="/1">收藏站</a>
                     </li>
-                    <li class="nav-item">
-                        <a class="pure-button" href="/1">音乐屋</a>
 
                 </ul>
             </nav>
@@ -87,10 +85,10 @@
             <nav id="nav">
                 <ul class="nav-list">
                     <li class="nav-link">
-                    <a class="weibo "  href="http://weibo.com/localhost0000" ><i class="fa fa-weibo fa-2x"></i></a>
+                    <a class="weibo "  href="http://weibo.com/u/1957769673" ><i class="fa fa-weibo fa-2x"></i></a>
                     </li>
                     <li class="nav-link">
-                    <a class="github" href="https://github.com/liyouhai"><i class="fa fa-github fa-2x"></i></a>
+                    <a class="github" href="https://github.com/pskun"><i class="fa fa-github fa-2x"></i></a>
                     </li>
                     <li class="nav-link">
                     <a class="rss" href="/rss.xml" ><i class="fa fa-rss fa-2x"></i></a>
@@ -114,8 +112,8 @@
         <div class="footer">
                 <a href="/love/welcome-my-blog.html">About</a>
                  <a href="/1">Collecting</a>
-                <a href="tencent://message/?uin=1003800663">QQ</a>
-                <a href="https://github.com/liyouhai">GitHub</a>
+                <a href="tencent://message/?uin=598301107">QQ</a>
+                <a href="https://github.com/pskun">GitHub</a>
             <script src="/js/min/nprogress.min.js"></script>
             <script src="/js/index.js"></script>
         </div>
