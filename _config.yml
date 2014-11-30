@@ -17,7 +17,7 @@ author :
   email : pankunhao@gmail.com
   github : pskun
   twitter : roybinux
-  gplus: roybinux
+  gplus: pankunhao
 safe : true
 
 # The production_url is only used when full-domain names are needed
@@ -83,7 +83,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : binux
+      short_name : pskun
     livefyre :
       site_id : 123
     intensedebate :
