@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 万事开头难
-description: "Static Markdown (or Textile), Liquid, HTML & CSS go in. Static sites come out ready for deployment. Jekyll template guide,JekyllPure是一个基于jekyll主题,集成了各种方便的插件,以及简洁的页面"
-category: 介绍
+description: ""
+category: introduction
 avatarimg: "/img/head.jpg"
 tags : [Jekyll,第一篇博客]
 duoshuo: true
@@ -32,7 +32,9 @@ GithubPages真是一个神奇的东西，貌似是给你一个300M的空间，�
 > 如何使用Github+Jekyll建站:[github Pages和Jekyll入门](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
 
 关于主题，如果你不想自己写网页的话，可以搜搜Jekyll的开源主题，然后fork一下就好了。Jekyll自己也提供了好多website的list供你参考。
+
 > 使用Jekyll的网站:[Sites](https://github.com/jekyll/jekyll/wiki/Sites)
+
 当然我也比较懒，直接fork一个美女程序员的Jekyll，为了尊重知识产权，还是要特别把这事说一下，顺便贴一下她的博客的链接
 
 > [曾经不知道你好](http://www.liyouhai.com/)
@@ -42,7 +44,10 @@ GithubPages真是一个神奇的东西，貌似是给你一个300M的空间，�
 # 后记
 ----------
 好了，拉拉杂杂说了这么多，其实中心思想就是，我的博客已经迁移过了，欢迎你们常来，我也会慢慢把旧博客的内容迁移过来。当然你们现在也可以继续访问[我的旧博客](http://www.pankunhao.com/)，虽然上面还没几篇文章。
+
 今后的计划嘛，当然是慢慢充实它，写一些技术心得，放一些旅游的照片吧。最近积累了好多需要写的内容，自己也不会偷懒的，争取慢慢补上。以后大概是一个月一篇的节奏，做一个文艺的码农。
 就这么多吧。
+
 下一篇可以讲讲在狼厂的见闻。
+
 周末愉快。
