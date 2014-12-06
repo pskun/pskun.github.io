@@ -3,7 +3,7 @@ layout: post
 title: 万事开头难
 description: ""
 category: introduction
-avatarimg: "/img/head.jpg"
+avatarimg: "/img/head.png"
 tags : [Jekyll,第一篇博客]
 duoshuo: true
 ---
