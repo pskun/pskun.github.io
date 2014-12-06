@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">{% capture description %}{% if page.description %}{{ page.description }}{% else %}pskun的杂货铺{% endif %}{% endcapture %}
     <meta name="description" content="{{ description }}">{% capture tags %}{% if page.tags %}{{ page.tags }}{% else %}pskun的杂货铺{% endif %}{% endcapture %}
     <meta name="keywords" content="{{ page.tags | join: ', ' }}"/>
-    <meta name="author" content="pskun.github.io"> {% capture canonical %}http://pskun.github.io{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
+    <meta name="author" content="pskun.cc"> {% capture canonical %}http://pskun.github.io{% if site.permalink contains '.html' %}{{ page.url }}{% else %}{{ page.url | remove:'index.html' }}{% endif %}{% endcapture %}
     <link rel="canonical" href="{{ canonical }}">
     <link href="http://pskun.github.io/rss.xml" title="RSS 2.0" type="application/rss+xml" rel="alternate"/>
     <link href="/img/favicon.ico" rel="icon" type="image/x-icon">
@@ -50,7 +50,7 @@
         <div class="header">
             <div class="headerpic">
                 <a href="/">
-                    <img src="/img/head.jpg" alt="Profile Picture" style="width: 140px;" title="返回首页">
+                    <img src="/img/head.png" alt="Profile Picture" style="width: 140px;" title="返回首页">
                 </a>
             </div>
             <h1 class="brand-title">pskun的杂货铺</h1>
@@ -98,8 +98,8 @@
                 <a href="/love/welcome-my-blog.html">About</a>
                 <a href="tencent://message/?uin=598301107">QQ</a>
                 <a href="https://github.com/pskun">GitHub</a>
-				<li>Powered by <a href="http://jekyllcn.com/">Jekyll</a></li>
-				<li>Forked by <a href="http://www.liyouhai.com/">liyouhai</a></li>
+				<a href="http://jekyllcn.com/"> Powered by Jekyll</a>
+				<a href="http://www.liyouhai.com/">Forked by liyouhai</a>
             <script src="/js/min/nprogress.min.js"></script>
             <script src="/js/index.js"></script>
         </div>
