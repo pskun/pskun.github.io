@@ -6,22 +6,22 @@ permalink: rss.xml
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-    <title>曾经不知你好</title>
-    <link href="http://liyouhai.com/rss.xml" rel="self"/>
-    <link href="http://liyouhai.com/"/>
+    <title>pskun杂记</title>
+    <link href="http://pskun.github.io/rss.xml" rel="self"/>
+    <link href="http://pskun.github.io/"/>
     <updated>{{ site.time | date_to_xmlschema }}</updated>
-    <id>http://liyouhai.com/</id>
+    <id>http://pskun.github.io/</id>
     <author>
-        <name>liyouhai</name>
-        <email>liyouhai@vip.qq.com</email>
+        <name>pskun</name>
+        <email>Kunhao.Pan@foxmail.com</email>
     </author>
 
     {% for post in site.posts %}
     <entry>
         <title>{{ post.title | xml_escape }}</title>
-        <link href="http://liyouhai.com{{ post.url }}"/>
+        <link href="http://pskun.github.io{{ post.url }}"/>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
-        <id>http://liyouhai.com/{{ post.id }}</id>
+        <id>http://pskun.github.io/{{ post.id }}</id>
         <content type="html">{{ post.content | xml_escape }}</content>
         <summary type="html">{{ post.content | xml_escape }}</summary>
     </entry>

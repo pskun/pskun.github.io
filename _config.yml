@@ -1,9 +1,5 @@
 #production_url是sitemap.txt生成的url,方便百度谷歌收录
-<<<<<<< HEAD
 production_url: http://pskun.github.io
-=======
-# production_url: http://pskun.cc
->>>>>>> origin/master
 #
 # Jekyll Settings
 #

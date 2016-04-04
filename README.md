@@ -3,9 +3,7 @@
 > JekyllPure版本V1.0.0 <br>
 > 最后更新:2014-09-19 16:45
 
-Demo:[曾经不知你好'Blog](http://liyouhai.com/)
-
-Github:[JekyllPure'github](https://github.com/liyouhai/JekyllPure)
+fork from Github:[JekyllPure'github](https://github.com/liyouhai/JekyllPure)
 
 ##版本更新
 ----------

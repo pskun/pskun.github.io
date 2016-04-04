@@ -16,7 +16,7 @@ Given a positive integer N, you should output the leftmost digit of N^N.
 
 ## 解题思路
 ----------
-一开始想用right most那一题（http://acm.hdu.edu.cn/showproblem.php?pid=1061）的思路，找规律，但是发现没有什么好的规律可找，也可能是受上一题的思路影响太大了，一直没有跳出思维定式。
+一开始想用right most[那一题]（http://acm.hdu.edu.cn/showproblem.php?pid=1061）的思路，找规律，但是发现没有什么好的规律可找，也可能是受上一题的思路影响太大了，一直没有跳出思维定式。
 
 想了好几天，实在想不到了，就去网上翻博客去了。看完觉得，数学好真是牛逼啊。
 

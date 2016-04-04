@@ -1,25 +1,8 @@
 ---
 layout: blog
-title : 标签云
+title : 标签
 permalink: tag/
 ---
-
-<div id='tagcloud' >
-    {% for tag in site.tags %}
-    <a href="/tag#{{ tag[0] }}" title="{{ tag[0] }}" rel="{{ tag[1].size }}">{{ tag[0] }}</a>
-    {% endfor %}
-</div>
-<script src="/js/min/jquery.tagcloud.min.js"></script>
-<script type="text/javascript">
-    $.fn.tagcloud.defaults = {
-        size: {start: 15, end: 45, unit: 'pt'},
-        color: {start: '#90a0dd', end: '#0cf'}
-    };
-    $(function () {
-        $('#tagcloud a').tagcloud();
-    });
-
-</script>
 
 
 <div class="f5">

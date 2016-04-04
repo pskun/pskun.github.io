@@ -1,7 +1,7 @@
 ---
 layout: blog
 description: ""
-tags : [pskun的个人博客]
+tags : [pskun杂记]
 ---
 
 {% for post in paginator.posts %}
@@ -12,7 +12,7 @@ tags : [pskun的个人博客]
             <img class="post-avatar" height="48" width="48"
                  src="{{ post.avatarimg }}">
 
-            <h2 class="post-title">{{ post.title }}</h2>
+            <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
 
             <p class="post-meta">By {{ post.date | date: "%m" }}月{{ post.date | date: "%d" }}日  {{ post.date | date: "%Y" }}  <a
                     class="post-categorybut " href="/type/#{{ post.categories  }}">{{ post.categories  }}</a><a

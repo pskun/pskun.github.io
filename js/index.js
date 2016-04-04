@@ -16,7 +16,6 @@ $(function(){
             break;
         case 4:
             $('.sidebar,.search-query').css({  "background": "#3D4F5D" });
-            //"color": "#ff0011",parseInt(6*Math.random())
             break;
         case 5:
             $('.sidebar,.search-query').css({  "background": "#3D4F5D" });

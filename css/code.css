@@ -194,18 +194,7 @@ pre .err {
 #toc .top-h3 {
     padding-left: 4px;
 }
-.grcode{
-    float: right;
-    top: 15px;
-    color: #ffffff;
 
-}
-.qrcodeTable{
-    z-index:2000;
-    position: relative;
-    top: 5px;
-    left: -50px;
-}
 .search form INPUT[type="text"] {
     width: auto;
 }
