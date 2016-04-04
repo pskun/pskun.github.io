@@ -22,7 +22,7 @@ tags : [pskun的个人博客]
         </header>
 
         <div class="post-description">
-            {{ post.content | split:'<!-- more -->'| first }}
+            {{ post.excerpt | split:'<!-- more -->'| first }}
 
 
             <a href="{{ post.url }}" class="post-categorybut">阅读全文</a>
