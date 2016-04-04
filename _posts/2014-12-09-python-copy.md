@@ -4,7 +4,7 @@ title: Python中的变量、赋值与拷贝问题（1）——问题提出、变
 description: ""
 category: Python
 avatarimg: "/img/head.png"
-tags : [Python,变量,拷贝,浅拷贝,深拷贝,赋值]
+tags : [Python,拷贝]
 duoshuo: true
 ---
 
