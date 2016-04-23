@@ -26,8 +26,8 @@ $$
 
 {% highlight cpp %}
 
-#include <math.h>
-#include <stdio.h>
+# include <math.h>
+# include <stdio.h>
 int main()
 {
 	int t, n;
