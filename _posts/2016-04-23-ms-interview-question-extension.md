@@ -20,14 +20,13 @@ duoshuo: true
 ----------
 
 ### 最朴素的思路
-$$
-J(\theta) = \frac 1 2 \sum_{i=1}^m (h_\theta(x^{(i)})-y^{(i)})^2
-$$
+$$ J(\theta) = \frac 1 2 \sum_{i=1}^m (h_\theta(x^{(i)})-y^{(i)})^2 $$
 
 {% highlight cpp %}
 
-# include <math.h>
-# include <stdio.h>
+#include <math.h>
+#include <stdio.h>
+
 int main()
 {
 	int t, n;
