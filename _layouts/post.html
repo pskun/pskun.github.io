@@ -13,19 +13,6 @@ layout: blog
             class="post-category " href="/tag/#{{ page.tags | first }}"> {{ page.tags | first }}</a><a
             class="post-category " href="/tag/#{{ page.tags[1] }}">  {{ page.tags[1] }}</a>
     </p>
-    <script type="text/x-mathjax-config">
-        MathJax.Hub.Config({
-            jax: ["input/TeX", "output/HTML-CSS"],
-            tex2jax: {
-                inlineMath: [ ['$', '$'] ],
-                displayMath: [ ['$$', '$$']],
-                processEscapes: true,
-                skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
-            },
-            messageStyle: "none",
-            "HTML-CSS": { preferredFont: "TeX", availableFonts: ["STIX","TeX"] }
-        });
-    </script>
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </header>
 <div class="article pure-u-22-24">

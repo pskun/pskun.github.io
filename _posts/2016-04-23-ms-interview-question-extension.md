@@ -18,27 +18,26 @@ duoshuo: true
 
 ## 解题思路
 ----------
+$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 
 ### 最朴素的思路
-$$ J(\theta) = \frac 1 2 \sum_{i=1}^m (h_\theta(x^{(i)})-y^{(i)})^2 $$
 
 {% highlight cpp %}
 
-#include <math.h>
-#include <stdio.h>
-
-int main()
-{
-	int t, n;
-	scanf("%d", &t);
-	while(t--)
-	{
-		scanf("%d", &n);
-		double f = n*log10((double)n);
-		double decimal = f - floor(f);
-		int ans = floor(pow(10, decimal));
-		printf("%d\n", ans);
-	}
-}
+ #include <math.h>
+ #include <stdio.h>
+ int main()
+ {
+	 int t, n;
+	 scanf("%d", &t);
+	 while(t--)
+	 {
+		 scanf("%d", &n);
+		 double f = n*log10((double)n);
+		 double decimal = f - floor(f);
+		 int ans = floor(pow(10, decimal));
+		 printf("%d\n", ans);
+	 }
+ }
 
 {% endhighlight %}
