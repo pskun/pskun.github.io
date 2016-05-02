@@ -1,2 +1,12 @@
-_site/
-.idea/
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+*.bak
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
