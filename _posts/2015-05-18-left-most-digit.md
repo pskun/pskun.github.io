@@ -4,7 +4,7 @@ title: ACM Steps题目：Left Most Digit
 description: ""
 category: algorithm
 avatarimg: "/img/head.png"
-tags : [array,acm]
+tags : [array, math]
 duoshuo: true
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 算法经典题目：二叉树两节点的公共祖先 LCA问题
+title: 算法经典题目：二叉树两节点的公共祖先(LCA问题)
 description: ""
 category: algorithm
 avatarimg: "/img/head.png"
-tags : [binary tree,LCA]
+tags : [二叉树, LCA]
 duoshuo: true
 ---
 

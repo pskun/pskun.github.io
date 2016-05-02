@@ -4,7 +4,7 @@ title: leetcode Easy题目：Rotate Array
 description: ""
 category: algorithm
 avatarimg: "/img/head.png"
-tags : [leetcode,array]
+tags : [leetcode, array]
 duoshuo: true
 ---
 
@@ -72,6 +72,6 @@ void reverseArray(int nums[],int start, int end){
 
 其实就是先把前n-k倒置，把后k倒置，再把整个数组倒置，就完成了旋转。其中的原理用到了线性代数的东西。
 
-(X^T·Y^T)^T = YX
+(X^T · Y^T) ^ T = YX
 
 哎，真是数学没好好学害死人啊。

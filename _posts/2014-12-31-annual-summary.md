@@ -2,7 +2,7 @@
 layout: post
 title: 2014的年度总结
 description: ""
-category: 年度总结
+category: 随感
 avatarimg: "/img/head.png"
 tags : [2014, 总结]
 duoshuo: true

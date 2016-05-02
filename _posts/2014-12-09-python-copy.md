@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Python中的变量、赋值与拷贝问题（1）——问题提出、变量
+title: Python中的变量、赋值与拷贝问题（1）
 description: ""
 category: Python
 avatarimg: "/img/head.png"
-tags : [Python,拷贝]
+tags : [Python, 拷贝]
 duoshuo: true
 ---
 

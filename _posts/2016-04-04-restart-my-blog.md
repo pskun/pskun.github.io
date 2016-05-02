@@ -2,7 +2,7 @@
 layout: post
 title: 再出发
 description: ""
-category: thinking
+category: 随感
 avatarimg: "/img/head.png"
 tags : [点滴, 思考]
 duoshuo: true

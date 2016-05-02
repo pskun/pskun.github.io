@@ -4,7 +4,7 @@ title: 从微软面试题说开去
 description: "详细讨论一个数的n次方的后k位和前k位数"
 category: algorithm
 avatarimg: "/img/head.png"
-tags : [math,interview]
+tags : [math, interview]
 duoshuo: true
 ---
 

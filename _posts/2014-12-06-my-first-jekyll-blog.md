@@ -2,7 +2,7 @@
 layout: post
 title: 万事开头难
 description: ""
-category: introduction
+category: 随感
 avatarimg: "/img/head.png"
 tags : [Jekyll, wordpress]
 duoshuo: true
