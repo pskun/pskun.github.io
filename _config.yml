@@ -15,17 +15,13 @@ redcarpet:
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : liberize's blog
+title : pskun的博客
 tagline: Free as the wind.
 author :
-  name : liberize
-  email : liberize@gmail.com
-  github : liberize
-  twitter : liberize
-  weibo : liberize
-  v2ex : liberize
-  googleplus : 118314345733357791088
-  feedburner : feedname
+  name : pskun
+  email : Kunhao.Pan@foxmail.com
+  github : pskun
+  weibo : 1957769673
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -96,18 +92,9 @@ JB :
   comments :
     provider : duoshuo
     duoshuo :
-      short_name : liberize
+      short_name : pankunhao
     disqus :
-      short_name : liberize
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
+      short_name : pskun
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
