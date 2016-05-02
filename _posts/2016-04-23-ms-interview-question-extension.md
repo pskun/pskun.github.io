@@ -18,7 +18,7 @@ duoshuo: true
 
 ## 解题思路
 ----------
-$$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
+$ x=\frac{-b\pm\sqrt{b^2-4ac}}{2a} $
 
 ### 最朴素的思路
 
