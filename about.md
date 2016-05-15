@@ -11,4 +11,4 @@ comments: false
 
 一只略文艺的男码农，找实习中
 
-LinkedIn: [Kunhao Pan(Henry)](http://cn.wordpress.org/)
+LinkedIn: [Kunhao Pan(Henry)](https://cn.linkedin.com/in/kunhao-pan-314069a7)
