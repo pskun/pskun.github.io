@@ -126,7 +126,7 @@ Nov. 2016 | 签offer
 ----------
 >部门：Maps  
 >职位：Software Development Engineer  
->**状态：实习没有，校招reject**  
+>**状态：实习没有，校招offer**  
 >进度：onsite4轮，给我发SDET offer，果断拒  
 
 ### Morgan Stanley
@@ -161,7 +161,7 @@ Nov. 2016 | 签offer
 ----------
 >部门：数字营销广告部用户画像组  
 >职位：算法工程师  
->**状态：实习reject，校招give up**  
+>**状态：实习reject，校招give  up**  
 >进度：实习笔试跪，校招onsite3轮，放弃继续面试  
 
 ### 知乎
