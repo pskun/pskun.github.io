@@ -177,3 +177,8 @@ Nov. 2016 | 签offer
 >职位：算法工程师  
 >**状态：实习没投，校招offer**  
 >进度：没做笔试，onsite2轮  
+## 结束语
+----------
+说起过去近一年的经历，简直云淡风轻，但是山重水复只有自己知道。  
+We are all in the gutter, but some of us are looking at the stars. ———— 王尔德  
+共勉！
